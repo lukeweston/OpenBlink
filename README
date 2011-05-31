@@ -1,0 +1,20 @@
+
+BOM for BlinkM clone.
+
+------------------------------------------------------------------------------------------
+
+Quantities required for 100 units.
+
+100 x RGB LED		// USD $045.00 ex shipping for 100. http://tinyurl.com/4y9ex8a
+100 x ATtiny85 (SOIC)	// USD $135.00 ex shipping for 100. Digikey ATTINY85-20SU-ND
+100 x 100 nF 0805	// USD $001.66 ex shipping for 100. Digikey 311-1361-1-ND
+15 x 40-pin male header	// USD $023.58 ex shipping for 015. Digikey A26509-40-ND
+200 x 100 R 0805	// USD $001.76 ex shipping for 200. Digikey RMCF0805JT100RCT-ND
+100 x 220 R 0805	// USD $000.88 ex shipping for 100. Digikey RMCF0805JT220RCT-ND
+
+Excludes PCB manufacturing and shipping.
+
+TOTAL = $207.88 USD. 
+
+Unit price = USD $2.08
+
