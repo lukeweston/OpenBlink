@@ -1,0 +1,22 @@
+
+BOM for BlinkM clone.   
+
+------------------------------------------------------------------------------------------   
+
+Quantities required for 100 units.   
+
+100 x RGB LED		// 5050 RGB, individual anodes and cathodes (not tied), same device as Freetronics RGB module. Need to check supplier.   
+100 x ATtiny85 (SOIC)	// USD $66.00 for 100. Digikey ATTINY85-20SU-ND   
+100 x 100 nF 0805	// USD $1.41 for 100. Digikey 311-1361-1-ND  
+17 x 40-pin male header	// USD $028.95 for 017. Digikey A26509-40-ND   
+200 x 100 R 0805	// USD $001.16 for 200. Digikey A106053CT-ND   
+100 x 220 R 0805	// USD $000.77 for 100. Digikey 311-220ARCT-ND
+100 x 10k 0805		// USD $000.55 for 100. Digikey A106054CT-ND
+
+Excludes PCB manufacturing and shipping. (And LEDs)  
+
+TOTAL = $98.84 USD for batch of 100.   
+
+Unit price = USD 99 cents each. (Plus extra costs not yet established, as above.)
+
+
